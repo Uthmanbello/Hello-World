@@ -173,9 +173,9 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Uthmanbello)
+- Twitter: [@twitterhandle](https://twitter.com/UthmanDeRoyale)
+- LinkedIn: [LinkedIn](linkedin.com/in/uthman-igein-bello-imoukhuede)
 
 
 
