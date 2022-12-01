@@ -5,3 +5,5 @@
 *.ali
 
 test.md
+
+node_modules
